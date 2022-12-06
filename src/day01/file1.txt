@@ -5,3 +5,7 @@ This is the first file
 So excited to start doing my homework
 
 Added extra line
+
+...
+
+Changing a file
